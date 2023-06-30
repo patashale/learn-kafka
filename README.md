@@ -25,6 +25,6 @@
 
 #### Logo:
 
-Learn Kafka | Learn Kafka
+Learn Kafka `#000000` | Learn Kafka `#000000`
 :-------------------------:|:-------------------------:
 ![Learn Kafka Logo](https://github.com/patashale/learn-kafka/assets/68323012/2fbdfb0a-4fe7-4431-9d24-6902b4d6ffaa) | ![Learn Kafka Logo](https://github.com/patashale/learn-kafka/assets/68323012/2fbdfb0a-4fe7-4431-9d24-6902b4d6ffaa)
